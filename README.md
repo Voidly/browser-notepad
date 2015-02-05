@@ -22,12 +22,19 @@
 更多语言的支持: 将  `ace/mode/ruby`用以下语言替换：
 
 Markdown -> `ace/mode/markdown`
+
 Python -> `ace/mode/python`
+
 C/C++ -> `ace/mode/c_cpp`
+
 Javscript -> `ace/mode/javascript`
+
 Java -> `ace/mode/java`
+
 Scala- -> `ace/mode/scala`
+
 CoffeeScript -> `ace/mode/coffee`
+
 and 
 css, html, php, latex, 
 tex, sh, sql, lua, clojure, dart, typescript, go, groovy, json, jsp, less, lisp, 
@@ -42,8 +49,11 @@ lucene, perl, powershell, scss, textile, xml, yaml, xquery, liquid, diff and man
  将  `ace/theme/monokai`用下面的替换掉：
 
 Eclipse -> ace/theme/eclipse
+
 GitHub -> ace/theme/github
+
 TextMate -> ace/theme/textmate
+
 and 
 ambiance, dawn, chaos, chrome, dreamweaver, xcode, vibrant_ink, solarized_dark, solarized_light, tomorrow, tomorrow_night, tomorrow_night_blue, 
 twilight, tomorrow_night_eighties, pastel_on_dark and many more..
