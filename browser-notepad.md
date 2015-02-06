@@ -1,6 +1,6 @@
 ##Common
 
-[普通编辑器]<data:text/html, <html contenteditable>>
+[普通编辑器](data:text/html, <html contenteditable>)
 
 ##Python
 
