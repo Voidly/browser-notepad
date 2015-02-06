@@ -1,10 +1,7 @@
 ##Common
 
-[普通编辑器](data:text/html, <html contenteditable>)
+<a href="data:text/html, <html contenteditable>">[普通编辑器]</a>
 
-[普通编辑器][hover]
-
-[hover]: data:text/html, <html contenteditable> "仅仅是普通编辑器"
 
 ##Python
 
