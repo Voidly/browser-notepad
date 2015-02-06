@@ -2,6 +2,9 @@
 
 [普通编辑器](data:text/html, <html contenteditable>)
 
+[普通编辑器][hover]
+[hover]: data:text/html, <html contenteditable> "仅仅是普通编辑器"
+
 ##Python
 
 [Python编辑器](data:text/html, <style type="text/css">.e{position:absolute;top:0;right:0;bottom:0;left:0;}</style><div class="e" id="editor"></div><script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script><script>var e=ace.edit("editor");e.setTheme("ace/theme/monokai");e.getSession().setMode("ace/mode/python");</script>)
