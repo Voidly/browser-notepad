@@ -1,6 +1,6 @@
 ##Common
 
-<a href="data:text/html, <html contenteditable>">[普通编辑器]</a>
+<a href="data:text/html, <html contenteditable>">普通编辑器</a>
 
 
 ##Python
